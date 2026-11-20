@@ -11,7 +11,8 @@ Este GitHub existe por una razón: el marketing ético se demuestra con decision
 
 - **Marketing que no engaña.** Sin patrones oscuros, con consentimiento de verdad y con afirmaciones que se pueden demostrar. Si una campaña necesita confundir para funcionar, el problema no es la campaña.
 - **Consultoría con datos y con conflictos declarados.** Si tengo un interés en lo que recomiendo, lo digo antes de recomendarlo.
-- **IA con criterio.** La inteligencia artificial amplifica el juicio de quien la usa; no lo sustituye. La responsabilidad de lo que se publica, se automatiza o se decide sigue siendo humana y no se delega.
+- **Contra el AI slop.** Internet se está llenando de contenido generado en masa, sin autor, sin verificar y sin nada que decir. No lo produzco, no lo vendo y no lo recomiendo.
+- **IA solo donde no hay creación.** La uso para investigar y para tareas mecánicas y repetitivas. Nunca en piezas creativas finales: ni textos publicados, ni ilustración, ni fotografía, ni diseño, ni voz. Y rechazo la IA generativa de imagen entrenada con la obra de autores reales sin su permiso.
 - **Privacidad y accesibilidad por defecto.** Una web que rastrea sin permiso o que no se puede usar con teclado no es una web moderna: es una web mal hecha.
 
 ## Trabajo en abierto
@@ -19,8 +20,8 @@ Este GitHub existe por una razón: el marketing ético se demuestra con decision
 | Repositorio | Qué es |
 |---|---|
 | [marketing-etico](https://github.com/NachoMeGran/marketing-etico) | Guía práctica, criterios y checklists de marketing ético para España y la UE: patrones oscuros, consentimiento, comunicación ambiental, publicidad e influencers. |
-| [ia-responsable-en-marketing](https://github.com/NachoMeGran/ia-responsable-en-marketing) | Marco para usar la IA en marketing de forma moral y conforme al Reglamento Europeo de IA: política de uso, avisos de transparencia, registro y casos grises. |
-| [elementor-a-gutenberg-con-ia](https://github.com/NachoMeGran/elementor-a-gutenberg-con-ia) | Guía abierta y actualizable para migrar WordPress de Elementor a Gutenberg con un agente de IA conectado por MCP y criterio humano en cada decisión. Basada en la migración real de nachomg.com. |
+| [ia-responsable-en-marketing](https://github.com/NachoMeGran/ia-responsable-en-marketing) | Marco para usar la IA en marketing de forma moral y conforme al Reglamento Europeo de IA: qué hacer con ella, qué no hacer nunca, el AI slop, política de uso, transparencia y casos grises. |
+| [elementor-a-gutenberg-con-ia](https://github.com/NachoMeGran/elementor-a-gutenberg-con-ia) | Guía abierta y actualizable para migrar WordPress de Elementor a Gutenberg usando un agente de IA conectado por MCP solo para el trabajo técnico y mecánico, con criterio humano en cada decisión. Basada en la migración real de nachomg.com. |
 | [wordpress-etico](https://github.com/NachoMeGran/wordpress-etico) | Snippets de WordPress sin rastreo de terceros y accesibles: botones de compartir sin scripts externos, consentimiento conectado a Consent Mode, comentarios con RGPD y más. |
 | [datos-abiertos](https://github.com/NachoMeGran/datos-abiertos) | Conjuntos de datos abiertos (CC BY 4.0) con fuentes verificadas: patrones de diseño engañosos según el EDPB y el DSA, ética tecnológica en Black Mirror, iconos del diseño industrial español. |
 
@@ -43,9 +44,9 @@ He publicado también en Xataka, Espinof, Vitónica y Canino, y mi trabajo sobre
 - [Cultpixel](https://cultpixel.com): estudio y reivindicación del videojuego clásico, lejos de la nostalgia y el coleccionismo.
 - [Cine de siempre](https://cinedesiempre.com): la cartelera de todo lo que no es estreno en Barcelona y Oviedo: clásicos, cine de culto y versión original.
 
-## Cómo uso la IA en este perfil
+## Estado de estos repositorios
 
-Parte del material de estos repositorios se ha preparado con asistencia de IA: búsqueda y verificación de fuentes, redacción de borradores y código. Todo lo publicado lo he revisado yo, cada dato normativo enlaza a su fuente oficial y la responsabilidad de lo que dice es mía. Si encuentras un error, dímelo.
+Son borradores en revisión. La recopilación y verificación de fuentes, la estructura y las tareas mecánicas (formato, validación de datos, pruebas) se hicieron con apoyo de herramientas de IA, el uso que defiendo para esta tecnología. El texto definitivo lo estoy reescribiendo a mano. Si encuentras un error, dímelo.
 
 ## Contacto
 
