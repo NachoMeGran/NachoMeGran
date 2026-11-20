@@ -25,6 +25,12 @@ Este GitHub existe por una razón: el marketing ético se demuestra con decision
 | [wordpress-etico](https://github.com/NachoMeGran/wordpress-etico) | Snippets de WordPress sin rastreo de terceros y accesibles: botones de compartir sin scripts externos, consentimiento conectado a Consent Mode, comentarios con RGPD y más. |
 | [datos-abiertos](https://github.com/NachoMeGran/datos-abiertos) | Conjuntos de datos abiertos (CC BY 4.0) con fuentes verificadas: patrones de diseño engañosos según el EDPB y el DSA, ética tecnológica en Black Mirror, iconos del diseño industrial español. |
 
+### Creado para Red Room
+
+| Proyecto | Qué es |
+|---|---|
+| [Detector de greenwashing](https://github.com/red-room-marketing/detector-greenwashing) | Herramienta gratuita y abierta que señala en un texto las afirmaciones ambientales que la Directiva (UE) 2024/825 prohíbe o limita, explica por qué y propone cómo decirlo con datos. Funciona en el navegador: el texto no sale de tu equipo. [Pruébalo](https://red-room-marketing.github.io/detector-greenwashing/). |
+
 Los textos y los datos se publican con licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) y el código con licencia MIT. Se aceptan correcciones: abre una *issue* o un *pull request*.
 
 ## Dónde escribo
